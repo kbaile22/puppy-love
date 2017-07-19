@@ -12,3 +12,37 @@ colors:
     blue - #1fabe5
     dark blue - #046c97
 */
+
+* {
+    font-family: Helvetica;
+}
+
+h2 {
+    color: blue;
+}
+
+title {
+    color: white;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: blue;
+}
+
+li {
+    font-weight: bold;
+}
+
+div header {
+    width: 100%;
+    height: 100px;
+    background-color: #ff8523;
+}
+
+.main_navigation a {
+    border-style: solid;
+    border-color: white;
+}
+
+thead {}
